@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3067807c.chunk.css",
+    "main.js": "/static/js/main.d5be1fed.chunk.js",
+    "main.js.map": "/static/js/main.d5be1fed.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a4d0c14c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a4d0c14c.js.map",
+    "static/js/2.e35ce2da.chunk.js": "/static/js/2.e35ce2da.chunk.js",
+    "static/js/2.e35ce2da.chunk.js.map": "/static/js/2.e35ce2da.chunk.js.map",
+    "static/js/3.ecbe482d.chunk.js": "/static/js/3.ecbe482d.chunk.js",
+    "static/js/3.ecbe482d.chunk.js.map": "/static/js/3.ecbe482d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3067807c.chunk.css.map": "/static/css/main.3067807c.chunk.css.map",
+    "static/js/2.e35ce2da.chunk.js.LICENSE.txt": "/static/js/2.e35ce2da.chunk.js.LICENSE.txt",
+    "static/media/copy-regular.0ec8ada5.svg": "/static/media/copy-regular.0ec8ada5.svg",
+    "static/media/plus-square-solid.bb533173.svg": "/static/media/plus-square-solid.bb533173.svg",
+    "static/media/trash-alt-solid.6346df54.svg": "/static/media/trash-alt-solid.6346df54.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4d0c14c.js",
+    "static/js/2.e35ce2da.chunk.js",
+    "static/css/main.3067807c.chunk.css",
+    "static/js/main.d5be1fed.chunk.js"
+  ]
+}
